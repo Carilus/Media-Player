@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Carilus Media Player\bin\Debug\Carilus Media Player.exe.config
+C:\Users\User\source\repos\Carilus Media Player\bin\Debug\Carilus Media Player.exe
+C:\Users\User\source\repos\Carilus Media Player\bin\Debug\Carilus Media Player.pdb
+C:\Users\User\source\repos\Carilus Media Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\source\repos\Carilus Media Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\source\repos\Carilus Media Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\source\repos\Carilus Media Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\source\repos\Carilus Media Player\obj\Debug\Carilus Media Player.csproj.ResolveComReference.cache
+C:\Users\User\source\repos\Carilus Media Player\obj\Debug\Carilus_Media_Player.CarilusMusicPlayer.resources
+C:\Users\User\source\repos\Carilus Media Player\obj\Debug\Carilus_Media_Player.Properties.Resources.resources
+C:\Users\User\source\repos\Carilus Media Player\obj\Debug\Carilus Media Player.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Carilus Media Player\obj\Debug\Carilus Media Player.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Carilus Media Player\obj\Debug\Carilus Media Player.exe
+C:\Users\User\source\repos\Carilus Media Player\obj\Debug\Carilus Media Player.pdb

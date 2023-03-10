@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carilus Media Player", "Carilus Media Player.csproj", "{7007AA6C-011A-40BA-9111-EBA2952D3BEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7007AA6C-011A-40BA-9111-EBA2952D3BEC}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{7007AA6C-011A-40BA-9111-EBA2952D3BEC}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{7007AA6C-011A-40BA-9111-EBA2952D3BEC}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7007AA6C-011A-40BA-9111-EBA2952D3BEC}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0639FC5D-123F-423E-AEF5-2453450E2584}
+	EndGlobalSection
+EndGlobal
